@@ -1,0 +1,8 @@
+Flask
+line-bot-sdk
+requests
+pandas
+matplotlib
+Pillow
+cloudinary
+gunicorn
